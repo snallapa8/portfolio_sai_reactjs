@@ -4,7 +4,7 @@ constructor(props)
 {
 super(props);
 this.state={
-'myskills':['Java','HTML','JavaScript','CSS','Adobe Expereince Manager Tech Stack','Apache Sling','OSGI','EmberJS','REACT JS']
+'myskills':['Java', 'Scala', 'Web Technologies(HTML, JS, CSS)', 'reactJS', 'Adobe Expereince Manager Tech Stack','Apache Sling','OSGI','EmberJS', 'GraphQL', 'Strato', 'Manhattan']
 };
 }
 render() {
